@@ -38,16 +38,15 @@
     <link href="http://blog.edwarddd.cn/2017/05/07/test/"/>
     <id>http://blog.edwarddd.cn/2017/05/07/test/</id>
     <published>2017-05-06T21:46:10.000Z</published>
-    <updated>2017-05-07T18:43:45.039Z</updated>
+    <updated>2017-05-07T19:46:15.090Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="大家好"><a href="#大家好" class="headerlink" title="大家好"></a>大家好</h1><p><code>std::cout&lt;&lt;&quot;Hello World!&quot;;
-int i=1;</code></p>
-]]></content>
+    <content type="html"><![CDATA[<h1 id="博客的搭建总算告一段落了"><a href="#博客的搭建总算告一段落了" class="headerlink" title="博客的搭建总算告一段落了"></a>博客的搭建总算告一段落了</h1><pre><code>明天开始搞流星拳的作业！！！
+</code></pre>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;大家好&quot;&gt;&lt;a href=&quot;#大家好&quot; class=&quot;headerlink&quot; title=&quot;大家好&quot;&gt;&lt;/a&gt;大家好&lt;/h1&gt;&lt;p&gt;&lt;code&gt;std::cout&amp;lt;&amp;lt;&amp;quot;Hello World!&amp;quot;;
-int i=1;&lt;/code&gt;&lt;/
+      &lt;h1 id=&quot;博客的搭建总算告一段落了&quot;&gt;&lt;a href=&quot;#博客的搭建总算告一段落了&quot; class=&quot;headerlink&quot; title=&quot;博客的搭建总算告一段落了&quot;&gt;&lt;/a&gt;博客的搭建总算告一段落了&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;明天开始搞流星拳的作业！！！
+&lt;/code&gt;
     
     </summary>
     
