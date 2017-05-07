@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Edward&#39;s blog</title>
   
-  <link href="/hexo-blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.edwarddd.cn/hexo-blog/"/>
+  <link href="http://blog.edwarddd.cn/"/>
   <updated>2017-05-06T13:57:58.949Z</updated>
-  <id>http://blog.edwarddd.cn/hexo-blog/</id>
+  <id>http://blog.edwarddd.cn/</id>
   
   <author>
     <name>Edward</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>随笔</title>
-    <link href="http://blog.edwarddd.cn/hexo-blog/2017/05/07/%E9%9A%8F%E7%AC%94/"/>
-    <id>http://blog.edwarddd.cn/hexo-blog/2017/05/07/随笔/</id>
+    <link href="http://blog.edwarddd.cn/2017/05/07/%E9%9A%8F%E7%AC%94/"/>
+    <id>http://blog.edwarddd.cn/2017/05/07/随笔/</id>
     <published>2017-05-06T21:55:40.000Z</published>
     <updated>2017-05-06T13:57:58.949Z</updated>
     
@@ -35,8 +35,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://blog.edwarddd.cn/hexo-blog/2017/05/07/test/"/>
-    <id>http://blog.edwarddd.cn/hexo-blog/2017/05/07/test/</id>
+    <link href="http://blog.edwarddd.cn/2017/05/07/test/"/>
+    <id>http://blog.edwarddd.cn/2017/05/07/test/</id>
     <published>2017-05-06T21:46:10.000Z</published>
     <updated>2017-05-06T18:33:37.571Z</updated>
     
@@ -55,8 +55,8 @@
   
   <entry>
     <title>成立敬</title>
-    <link href="http://blog.edwarddd.cn/hexo-blog/2017/05/06/%E6%88%90%E7%AB%8B%E6%95%AC/"/>
-    <id>http://blog.edwarddd.cn/hexo-blog/2017/05/06/成立敬/</id>
+    <link href="http://blog.edwarddd.cn/2017/05/06/%E6%88%90%E7%AB%8B%E6%95%AC/"/>
+    <id>http://blog.edwarddd.cn/2017/05/06/成立敬/</id>
     <published>2017-05-06T00:40:40.000Z</published>
     <updated>2017-05-06T14:22:51.504Z</updated>
     
@@ -70,16 +70,16 @@
     </summary>
     
     
-      <category term="傻逼的文章" scheme="http://blog.edwarddd.cn/hexo-blog/tags/%E5%82%BB%E9%80%BC%E7%9A%84%E6%96%87%E7%AB%A0/"/>
+      <category term="傻逼的文章" scheme="http://blog.edwarddd.cn/tags/%E5%82%BB%E9%80%BC%E7%9A%84%E6%96%87%E7%AB%A0/"/>
     
-      <category term="test" scheme="http://blog.edwarddd.cn/hexo-blog/tags/test/"/>
+      <category term="test" scheme="http://blog.edwarddd.cn/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>测试一下</title>
-    <link href="http://blog.edwarddd.cn/hexo-blog/2017/05/05/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
-    <id>http://blog.edwarddd.cn/hexo-blog/2017/05/05/测试一下/</id>
+    <link href="http://blog.edwarddd.cn/2017/05/05/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
+    <id>http://blog.edwarddd.cn/2017/05/05/测试一下/</id>
     <published>2017-05-05T15:04:15.000Z</published>
     <updated>2017-05-06T06:32:13.605Z</updated>
     
@@ -92,7 +92,7 @@
     </summary>
     
     
-      <category term="url" scheme="http://blog.edwarddd.cn/hexo-blog/tags/url/"/>
+      <category term="url" scheme="http://blog.edwarddd.cn/tags/url/"/>
     
   </entry>
   
