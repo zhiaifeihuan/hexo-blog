@@ -1,0 +1,27 @@
+# Header
+menu:
+  ## If your site is put in a subdirectory, set Home as '/child/'
+  主页: /
+  档案: archives
+  标签: tags
+
+social:
+  email: zhiaifeihuan@gmail.com
+  twitter:
+  weibo:
+  github:
+  googleplus:
+
+# Content
+fancybox: true # set to true if you want to use it
+youyan: true #自定义的
+duoshuo: #duoshuo_shortname
+disqus: #disqus _shortname
+google_analytics: #Google Analytics Tracking Code
+google_adsense_page_level_ads: #Google Adsense Page Level Ads Code
+
+less:
+  paths:
+    - source/css
+  compress:
+    true
