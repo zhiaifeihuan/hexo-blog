@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Edward&#39;s blog</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hexo-blog/atom.xml" rel="self"/>
   
   <link href="http://blog.edwarddd.cn/hexo-blog/"/>
   <updated>2017-05-06T13:57:58.949Z</updated>
