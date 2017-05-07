@@ -70,7 +70,7 @@ deploy:
 - type: rsync
   host: 120.25.164.199
   user: root
-  root: /data/wwwroot/hexo-blog/
+  root: /data/wwwroot/hexo/hexo-blog/
 - type: git
   repo: git@github.com:zhiaifeihuan/hexo-blog.git
   branch: master
