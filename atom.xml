@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Edward&#39;s blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.edwarddd.cn/"/>
+  <updated>2017-05-06T13:57:58.949Z</updated>
+  <id>http://blog.edwarddd.cn/</id>
+  
+  <author>
+    <name>Edward</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随笔</title>
+    <link href="http://blog.edwarddd.cn/2017/05/07/%E9%9A%8F%E7%AC%94/"/>
+    <id>http://blog.edwarddd.cn/2017/05/07/随笔/</id>
+    <published>2017-05-06T21:55:40.000Z</published>
+    <updated>2017-05-06T13:57:58.949Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我不知道你在想什么"><a href="#我不知道你在想什么" class="headerlink" title="我不知道你在想什么"></a>我不知道你在想什么</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;我不知道你在想什么&quot;&gt;&lt;a href=&quot;#我不知道你在想什么&quot; class=&quot;headerlink&quot; title=&quot;我不知道你在想什么&quot;&gt;&lt;/a&gt;我不知道你在想什么&lt;/h1&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://blog.edwarddd.cn/2017/05/07/test/"/>
+    <id>http://blog.edwarddd.cn/2017/05/07/test/</id>
+    <published>2017-05-06T21:46:10.000Z</published>
+    <updated>2017-05-06T18:33:37.571Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="大家好"><a href="#大家好" class="headerlink" title="大家好"></a>大家好</h1><p>std::cout&lt;&lt;”hello world!”;</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;大家好&quot;&gt;&lt;a href=&quot;#大家好&quot; class=&quot;headerlink&quot; title=&quot;大家好&quot;&gt;&lt;/a&gt;大家好&lt;/h1&gt;&lt;p&gt;std::cout&amp;lt;&amp;lt;”hello world!”;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>成立敬</title>
+    <link href="http://blog.edwarddd.cn/2017/05/06/%E6%88%90%E7%AB%8B%E6%95%AC/"/>
+    <id>http://blog.edwarddd.cn/2017/05/06/成立敬/</id>
+    <published>2017-05-06T00:40:40.000Z</published>
+    <updated>2017-05-06T14:22:51.504Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="你们好-我叫成立敬"><a href="#你们好-我叫成立敬" class="headerlink" title="你们好 我叫成立敬"></a>你们好 我叫成立敬</h3><p>asd</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;这是标题&quot;&gt;&lt;a href=&quot;#这是标题&quot; class=&quot;headerlink&quot; title=&quot;这是标题&quot;&gt;&lt;/a&gt;这是标题&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;&lt;a href=&quot;#这是二级标题&quot; class=&quot;headerlink&quot; title=&quot;这是二级标
+    
+    </summary>
+    
+    
+      <category term="傻逼的文章" scheme="http://blog.edwarddd.cn/tags/%E5%82%BB%E9%80%BC%E7%9A%84%E6%96%87%E7%AB%A0/"/>
+    
+      <category term="test" scheme="http://blog.edwarddd.cn/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试一下</title>
+    <link href="http://blog.edwarddd.cn/2017/05/05/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
+    <id>http://blog.edwarddd.cn/2017/05/05/测试一下/</id>
+    <published>2017-05-05T15:04:15.000Z</published>
+    <updated>2017-05-06T06:32:13.605Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="http-ibruce-info-2013-11-22-hexo-your-blog"><a href="#http-ibruce-info-2013-11-22-hexo-your-blog" class="headerlink" title="http://ibruce.info/2013/11/22/hexo-your-blog/"></a><a href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank" rel="external">http://ibruce.info/2013/11/22/hexo-your-blog/</a></h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;http-ibruce-info-2013-11-22-hexo-your-blog&quot;&gt;&lt;a href=&quot;#http-ibruce-info-2013-11-22-hexo-your-blog&quot; class=&quot;headerlink&quot; title=&quot;http://i
+    
+    </summary>
+    
+    
+      <category term="url" scheme="http://blog.edwarddd.cn/tags/url/"/>
+    
+  </entry>
+  
+</feed>
