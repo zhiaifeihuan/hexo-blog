@@ -4,7 +4,7 @@
     
     <entry>
       <title><![CDATA[随笔]]></title>
-      <url>/2017/05/07/%E9%9A%8F%E7%AC%94/</url>
+      <url>/hexo-blog/2017/05/07/%E9%9A%8F%E7%AC%94/</url>
       <content type="html"><![CDATA[<h1 id="我不知道你在想什么"><a href="#我不知道你在想什么" class="headerlink" title="我不知道你在想什么"></a>我不知道你在想什么</h1>]]></content>
       
         
@@ -12,7 +12,7 @@
     
     <entry>
       <title><![CDATA[test]]></title>
-      <url>/2017/05/07/test/</url>
+      <url>/hexo-blog/2017/05/07/test/</url>
       <content type="html"><![CDATA[<h1 id="大家好"><a href="#大家好" class="headerlink" title="大家好"></a>大家好</h1><p>std::cout&lt;&lt;”hello world!”;</p>
 ]]></content>
       
@@ -21,7 +21,7 @@
     
     <entry>
       <title><![CDATA[成立敬]]></title>
-      <url>/2017/05/06/%E6%88%90%E7%AB%8B%E6%95%AC/</url>
+      <url>/hexo-blog/2017/05/06/%E6%88%90%E7%AB%8B%E6%95%AC/</url>
       <content type="html"><![CDATA[<h1 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="你们好-我叫成立敬"><a href="#你们好-我叫成立敬" class="headerlink" title="你们好 我叫成立敬"></a>你们好 我叫成立敬</h3><p>asd</p>
 ]]></content>
       
@@ -38,7 +38,7 @@
     
     <entry>
       <title><![CDATA[测试一下]]></title>
-      <url>/2017/05/05/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</url>
+      <url>/hexo-blog/2017/05/05/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</url>
       <content type="html"><![CDATA[<h1 id="http-ibruce-info-2013-11-22-hexo-your-blog"><a href="#http-ibruce-info-2013-11-22-hexo-your-blog" class="headerlink" title="http://ibruce.info/2013/11/22/hexo-your-blog/"></a><a href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank" rel="external">http://ibruce.info/2013/11/22/hexo-your-blog/</a></h1>]]></content>
       
         
