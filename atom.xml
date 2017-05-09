@@ -5,7 +5,7 @@
   <link href="/hexo-blog/atom.xml" rel="self"/>
   
   <link href="http://blog.edwarddd.cn/"/>
-  <updated>2017-05-07T19:46:15.090Z</updated>
+  <updated>2017-05-09T18:50:10.259Z</updated>
   <id>http://blog.edwarddd.cn/</id>
   
   <author>
@@ -16,37 +16,70 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://blog.edwarddd.cn/2017/05/07/%E9%97%B2%E7%9A%84%E8%9B%8B%E7%96%BC/"/>
-    <id>http://blog.edwarddd.cn/2017/05/07/闲的蛋疼/</id>
-    <published>2017-05-06T21:46:10.000Z</published>
-    <updated>2017-05-07T19:46:15.090Z</updated>
+    <title>找实习的心路历程</title>
+    <link href="http://blog.edwarddd.cn/2017/05/10/%E6%A0%A1%E6%8B%9B%E6%89%BE%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+    <id>http://blog.edwarddd.cn/2017/05/10/校招找实习总结/</id>
+    <published>2017-05-10T01:01:15.000Z</published>
+    <updated>2017-05-09T18:50:10.259Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="博客的搭建总算告一段落了"><a href="#博客的搭建总算告一段落了" class="headerlink" title="博客的搭建总算告一段落了"></a>博客的搭建总算告一段落了</h1><pre><code>明天开始搞流星拳的作业！！！
-</code></pre>]]></content>
+    <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>很早就有在暑期找个实习的想法，上学期想在寒假找个开源的游戏项目造造轮子，没想到年前却发生了车祸，于是一蹶不振，荒废了一整个寒假的时间。开学时意识到马上要春招了，可是我能做什么呢。那没有机会也得试试看,所以就开始搜寻各企业的春招信息。</p>
+<h3 id="第一站-阿里内推C-研发"><a href="#第一站-阿里内推C-研发" class="headerlink" title="第一站(阿里内推C++研发)"></a>第一站(阿里内推C++研发)</h3><p>在班群里看到一个同学发的消息，他表哥在蚂蚁金服上班，手上有内推名额，可以推阿里与蚂蚁金服的所有岗位，当然不能放弃这么好的机会，我马上就联系了他表哥。</p>
+<p>第一次与他聊天，我谈了不少关于自己的情况，把以前的项目以及自己的技能库全都说出来，毕竟是第一次，几乎没有准备的我对很多的细节确实没有太注重，例如熟悉、精通等词汇。以至于被问到栈的生长方向与OOP在C++中的几大特性的时候，我都没有没有答出来。这还只是知道不知道类型的问题而已。与他电话了几十分钟后，深刻意识到自己要补充的知识还有太多太多了，然后接下来几天就开始准备简历了。</p>
+<p>不到两个小时就完成了第一版的简历。不过真的连我自己都看不下去，发给了他，人家也是表示这个简历连被多看一秒的资格都没有。不过他人真的很好，很耐心的和我讲了接近一个小时的电话，提供了关于简历的很多简历，我深受裨益，于是我直接<code>rm 第一份简历</code>，重头开始。</p>
+<p>几天之后比较成型的简历总算出来了，这次人家直接给我推了，收到阿里邮件心里还是有点小激动的。然后是网上的在线测试，第一部分是语言理解能力与分析归纳类型的测试题，不得不说，真的有点变态。题目好几十个字，还有图表，要分析归纳计算得出答案，从读题开始全过程只有一分钟的时间，一秒不多给。自我感觉做的很差，不过好像这关不太会刷人。然后是在线编程，30分钟一道编程题，大概ACM中等难度，给我的题目是实现一个自动构建gcc链接器命令行的函数，主要是字符串处理的问题，如果用Python来写难度会大大下降，只不过我投的是C++岗，只能用C++实现。果不其然，半个小时对我来说真的不够，最后我只能写上一句<code>return &quot;Time limited&quot;;</code>。</p>
+<p>我都已经放弃了，却在几天之后收到了阿里的面试电话，激动地不能自己，难道我是天选之人？　和面试官相约第二天中午面试，于是我第二天早早的坐在电脑前等着电话响起，是真的很紧张，感觉比高考都紧张，心砰砰跳，话都讲不利索。电话接起来，刚想做个自我介绍，没想到面试官也不和我多BB，直接让我当场写码，有序链表的合并，按说很好写啊！。但尼玛我是真的紧张，脑子一片空白，我就直说了，他也没逼我，然后问了好多问题，我的项目却一个没问，问tcp，多进程多线程，数据库，还让我设计一个提取数据流中位数的方法，其中没学过的我就直说，毕竟我不是CS专业的，我也有入手了这方面的书籍，只不过还需要很多时间。整体答得也很一般，后来他说几天后让我留意官网通知，我就默默地嗯了一声，还需要什么官网通知，我都已经知道结果了不是吗。</p>
+<h4 id="just-拥抱变化"><a href="#just-拥抱变化" class="headerlink" title="just 拥抱变化"></a>just <strong>拥抱变化</strong></h4><h3 id="第二站（腾讯校招PC客户端开发）"><a href="#第二站（腾讯校招PC客户端开发）" class="headerlink" title="第二站（腾讯校招PC客户端开发）"></a>第二站（腾讯校招PC客户端开发）</h3><p>未完待续……<br><img src="" alt=""></p>
+]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;博客的搭建总算告一段落了&quot;&gt;&lt;a href=&quot;#博客的搭建总算告一段落了&quot; class=&quot;headerlink&quot; title=&quot;博客的搭建总算告一段落了&quot;&gt;&lt;/a&gt;博客的搭建总算告一段落了&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;明天开始搞流星拳的作业！！！
-&lt;/code&gt;
+      &lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;很早就有在暑期找个实习的想法，上学期想在寒假找个开源的游戏项目造造轮子，没想到年前却发生了车祸，于是一蹶不振，荒废了一整个寒假的时间。开学时
     
     </summary>
     
     
+      <category term="实习" scheme="http://blog.edwarddd.cn/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
   </entry>
   
   <entry>
-    <title>测试一下</title>
-    <link href="http://blog.edwarddd.cn/2017/05/05/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
-    <id>http://blog.edwarddd.cn/2017/05/05/测试一下/</id>
-    <published>2017-05-05T15:04:15.000Z</published>
-    <updated>2017-05-06T06:32:13.605Z</updated>
+    <title>搭建博客的心路历程</title>
+    <link href="http://blog.edwarddd.cn/2017/05/10/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/"/>
+    <id>http://blog.edwarddd.cn/2017/05/10/搭建博客的心路历程/</id>
+    <published>2017-05-10T00:26:52.000Z</published>
+    <updated>2017-05-09T16:55:26.361Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="http-ibruce-info-2013-11-22-hexo-your-blog"><a href="#http-ibruce-info-2013-11-22-hexo-your-blog" class="headerlink" title="http://ibruce.info/2013/11/22/hexo-your-blog/"></a><a href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank" rel="external">http://ibruce.info/2013/11/22/hexo-your-blog/</a></h1>]]></content>
+    <content type="html"><![CDATA[<p>##　背景</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;http-ibruce-info-2013-11-22-hexo-your-blog&quot;&gt;&lt;a href=&quot;#http-ibruce-info-2013-11-22-hexo-your-blog&quot; class=&quot;headerlink&quot; title=&quot;http://i
+      &lt;p&gt;##　背景&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://blog.edwarddd.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo你的博客</title>
+    <link href="http://blog.edwarddd.cn/2017/05/05/hexo%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://blog.edwarddd.cn/2017/05/05/hexo你的博客/</id>
+    <published>2017-05-05T15:04:15.000Z</published>
+    <updated>2017-05-09T16:25:31.363Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="链接地址"><a href="#链接地址" class="headerlink" title="链接地址"></a>链接地址</h1><blockquote>
+<p><a href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank" rel="external">hexo你的博客</a></p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;链接地址&quot;&gt;&lt;a href=&quot;#链接地址&quot; class=&quot;headerlink&quot; title=&quot;链接地址&quot;&gt;&lt;/a&gt;链接地址&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://ibruce.info/2013/11/22/hexo-your-
     
     </summary>
     
