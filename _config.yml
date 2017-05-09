@@ -72,7 +72,7 @@ deploy:
   user: root
   root: /data/wwwroot/hexo/hexo-blog/
 - type: git
-  repo: git@github.com:zhiaifeihuan/hexo-blog.git
+  repo: git@my.github.com:zhiaifeihuan/hexo-blog.git
   branch: master
 
 jsonContent:
