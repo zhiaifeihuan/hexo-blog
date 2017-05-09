@@ -5,7 +5,7 @@
   <link href="/hexo-blog/atom.xml" rel="self"/>
   
   <link href="http://blog.edwarddd.cn/"/>
-  <updated>2017-05-06T13:57:58.949Z</updated>
+  <updated>2017-05-07T19:46:15.090Z</updated>
   <id>http://blog.edwarddd.cn/</id>
   
   <author>
@@ -16,27 +16,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>随笔</title>
-    <link href="http://blog.edwarddd.cn/2017/05/07/%E9%9A%8F%E7%AC%94/"/>
-    <id>http://blog.edwarddd.cn/2017/05/07/随笔/</id>
-    <published>2017-05-06T21:55:40.000Z</published>
-    <updated>2017-05-06T13:57:58.949Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="我不知道你在想什么"><a href="#我不知道你在想什么" class="headerlink" title="我不知道你在想什么"></a>我不知道你在想什么</h1>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;我不知道你在想什么&quot;&gt;&lt;a href=&quot;#我不知道你在想什么&quot; class=&quot;headerlink&quot; title=&quot;我不知道你在想什么&quot;&gt;&lt;/a&gt;我不知道你在想什么&lt;/h1&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>test</title>
-    <link href="http://blog.edwarddd.cn/2017/05/07/test/"/>
-    <id>http://blog.edwarddd.cn/2017/05/07/test/</id>
+    <link href="http://blog.edwarddd.cn/2017/05/07/%E9%97%B2%E7%9A%84%E8%9B%8B%E7%96%BC/"/>
+    <id>http://blog.edwarddd.cn/2017/05/07/闲的蛋疼/</id>
     <published>2017-05-06T21:46:10.000Z</published>
     <updated>2017-05-07T19:46:15.090Z</updated>
     
@@ -50,29 +32,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>成立敬</title>
-    <link href="http://blog.edwarddd.cn/2017/05/06/%E6%88%90%E7%AB%8B%E6%95%AC/"/>
-    <id>http://blog.edwarddd.cn/2017/05/06/成立敬/</id>
-    <published>2017-05-06T00:40:40.000Z</published>
-    <updated>2017-05-06T14:22:51.504Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="你们好-我叫成立敬"><a href="#你们好-我叫成立敬" class="headerlink" title="你们好 我叫成立敬"></a>你们好 我叫成立敬</h3><p>asd</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;这是标题&quot;&gt;&lt;a href=&quot;#这是标题&quot; class=&quot;headerlink&quot; title=&quot;这是标题&quot;&gt;&lt;/a&gt;这是标题&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;&lt;a href=&quot;#这是二级标题&quot; class=&quot;headerlink&quot; title=&quot;这是二级标
-    
-    </summary>
-    
-    
-      <category term="傻逼的文章" scheme="http://blog.edwarddd.cn/tags/%E5%82%BB%E9%80%BC%E7%9A%84%E6%96%87%E7%AB%A0/"/>
-    
-      <category term="test" scheme="http://blog.edwarddd.cn/tags/test/"/>
     
   </entry>
   
