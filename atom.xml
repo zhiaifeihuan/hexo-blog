@@ -5,7 +5,7 @@
   <link href="/hexo-blog/atom.xml" rel="self"/>
   
   <link href="http://blog.edwarddd.cn/"/>
-  <updated>2017-05-16T20:23:30.562Z</updated>
+  <updated>2017-06-06T18:53:21.627Z</updated>
   <id>http://blog.edwarddd.cn/</id>
   
   <author>
@@ -16,11 +16,51 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>中南最前线制作已经接近尾声啦</title>
+    <link href="http://blog.edwarddd.cn/2017/06/07/%E4%B8%AD%E5%8D%97%E6%9C%80%E5%89%8D%E7%BA%BF%E5%88%B6%E4%BD%9C%E5%B7%B2%E7%BB%8F%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%E5%95%A6/"/>
+    <id>http://blog.edwarddd.cn/2017/06/07/中南最前线制作已经接近尾声啦/</id>
+    <published>2017-06-07T02:28:55.000Z</published>
+    <updated>2017-06-06T18:53:21.627Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="大力点我去看看"><a href="#大力点我去看看" class="headerlink" title="大力点我去看看"></a><a href="csu.edwarddd.cn">大力点我去看看</a></h1><blockquote>
+<p><strong>一个可以随时发布基于消息或新闻的单页面应用</strong></p>
+<p>前端：</p>
+<ul>
+<li>Vue</li>
+<li>Vuex</li>
+<li>Vue-router</li>
+<li>webpack</li>
+<li>es6</li>
+</ul>
+<p>后端:</p>
+<ul>
+<li>java</li>
+<li>servlet</li>
+<li>postgresql</li>
+</ul>
+</blockquote>
+<p>后端由同学东东编写，通过Git来协作</p>
+<p><code>未完待续</code></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;大力点我去看看&quot;&gt;&lt;a href=&quot;#大力点我去看看&quot; class=&quot;headerlink&quot; title=&quot;大力点我去看看&quot;&gt;&lt;/a&gt;&lt;a href=&quot;csu.edwarddd.cn&quot;&gt;大力点我去看看&lt;/a&gt;&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="http://blog.edwarddd.cn/tags/Web/"/>
+    
+  </entry>
+  
+  <entry>
     <title>决定一</title>
     <link href="http://blog.edwarddd.cn/2017/05/17/%E5%86%B3%E5%AE%9A/"/>
     <id>http://blog.edwarddd.cn/2017/05/17/决定/</id>
     <published>2017-05-17T00:33:12.000Z</published>
-    <updated>2017-05-16T20:23:30.562Z</updated>
+    <updated>2017-05-17T20:07:37.151Z</updated>
     
     <content type="html"><![CDATA[<h2 id="决定考研了"><a href="#决定考研了" class="headerlink" title="决定考研了"></a>决定考研了</h2><p>找实习的失败经历让我对自己的水平有了更好的认知，已经做好秋招打算的我，又收到了李老师的消息。</p>
 <a id="more"></a>
@@ -53,7 +93,7 @@
     <link href="http://blog.edwarddd.cn/2017/05/14/%E4%BD%93%E6%B5%8B-%E4%B8%8B%E9%A6%86%E5%AD%90/"/>
     <id>http://blog.edwarddd.cn/2017/05/14/体测-下馆子/</id>
     <published>2017-05-14T00:10:58.000Z</published>
-    <updated>2017-05-16T19:50:34.326Z</updated>
+    <updated>2017-05-17T20:07:37.151Z</updated>
     
     <content type="html"><![CDATA[<h2 id="体测"><a href="#体测" class="headerlink" title="体测"></a>体测</h2><p>早上六点半醒来，上次这个点起床的时候，大清还在。<br><br>八点竟然和舍友一起去八食堂吃早饭，这个场景，简直活在梦里。不过头还是很晕，走楼梯都感觉晃来晃去的。<br></p>
 <p>回来看了一会奇才大战凯尔特人，可能是看多了勇士的球，总觉得缺了点什么。女票找了熬夜有害论的证据来强制要求我早睡。我也有点怂了。这不我现在定下规矩，十二点开始写blog,写完就睡。</p>
@@ -92,7 +132,7 @@
     <link href="http://blog.edwarddd.cn/2017/05/13/%E5%8F%91%E7%83%A7%E5%B0%8F%E8%AE%B0/"/>
     <id>http://blog.edwarddd.cn/2017/05/13/发烧小记/</id>
     <published>2017-05-13T00:01:04.000Z</published>
-    <updated>2017-05-13T18:35:37.721Z</updated>
+    <updated>2017-05-17T20:07:37.151Z</updated>
     
     <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>昨晚去洗澡的时候，没有热水，二十出头的气温洗了个冷水澡。按说也没什么影响，只不过回来的路上冷风直吹，晚上睡觉也没穿衣服，今天起来的时候就有点头晕，本来想多睡一会再下去拿外卖，可外卖小哥也不等我说完就把电话挂了，就只能半醒着去拿了。</p>
 <p>不得不说，最近外卖味道都不怎么样。不知道是不是我变挑剔了，中午只吃了一半就吃不下了，又很油腻，宿舍也很闷，下午感觉都很难受。捣鼓了一下午WebGIS，还是没有定下来最终的设计方案，也罢，好的作品需要慢慢研究。</p>
@@ -127,7 +167,7 @@
     <link href="http://blog.edwarddd.cn/2017/05/10/%E6%A0%A1%E6%8B%9B%E6%89%BE%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
     <id>http://blog.edwarddd.cn/2017/05/10/校招找实习总结/</id>
     <published>2017-05-10T01:01:15.000Z</published>
-    <updated>2017-05-12T17:14:55.198Z</updated>
+    <updated>2017-05-17T20:07:37.151Z</updated>
     
     <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>很早就有在暑期找个实习的想法，上学期想在寒假找个开源的游戏项目造造轮子，没想到年前却发生了车祸，于是一蹶不振，荒废了一整个寒假的时间。开学时意识到马上要春招了，可是我能做什么呢。那没有机会也得试试看,所以就开始搜寻各企业的春招信息。</p>
 <h3 id="第一站-阿里内推C-研发"><a href="#第一站-阿里内推C-研发" class="headerlink" title="第一站(阿里内推C++研发)"></a>第一站(阿里内推C++研发)</h3><p>在班群里看到一个同学发的消息，他表哥在蚂蚁金服上班，手上有内推名额，可以推阿里与蚂蚁金服的所有岗位，当然不能放弃这么好的机会，我马上就联系了他表哥。</p>
